@@ -26,7 +26,7 @@
 
 <h2 id=objective>📜 Objetivo</h2>
 
-O Net 6 introduziu novos recursos para a Linq.
+O Net 6 introduziu novos recursos para a Linq.<br>
 Aqui verei quais são essas novidades e utilizarei esses recursos.
 
 <h2 id=installation>☑️ Instalação</h2>
